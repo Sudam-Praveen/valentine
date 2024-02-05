@@ -40,7 +40,7 @@ function App() {
       ) :(
         <>
         <img src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif" alt="bear with hearts" />
-        <div className='fw-bold' style={{ marginRight: '10px' }}>Will you be my valentine?</div>
+        <div className='fw-bold' style={{ marginTop: '5px',marginBottom: '5px' }}>Will you be my valentine?</div>
         <div>
           <button className='yesButton btn btn-success'
           style={{fontSize:yesButtonSize , marginRight: '10px'}}
